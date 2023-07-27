@@ -26,7 +26,7 @@ Make quality data available for fact-finding and data-driven decision-making.
   data architecture for storing source data (databases, data warehouses, data lakes, etc)
   
 - processing data
-  implement and maintain distributed systems
+  implementing and maintaining distributed systems
   design pipelines for extraction, transformation, and loading data into data repositories.
   design and implement solutions for validating and safeguarding data quality, privacy, and security.
   optimize tools, systems, and workflows for performance, reliability, and scalability.
