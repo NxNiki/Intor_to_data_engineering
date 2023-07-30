@@ -1,6 +1,6 @@
 ##  modern data ecosystem:
 
-type of data (strcutured, unstructured)
+type of data (structured, unstructured)
 
 texts, images, clickstreams, user conversations, social media platforms, internet of things (LOT), 
 real-time events that stream data, legacy databases.
@@ -92,7 +92,31 @@ Big Data processing tools:
   Hive
   Spark
 
+Skills and qualities to be a data engineer:
 
+relational database
+cassandra
+google bigtable
+kafka stream
+websphere MQ
+
+networking skills (LAN, WAN)
+different types of storage (local, cloud-based)
+operating systems
+RDBMS, NoSQL
+
+Computer architecture
+cloud
+virtual machine
+container
+
+Big data systems:
+ETL
+data pipelines
+data warehouses
+data lakes
+
+data modeling
 
 
 
